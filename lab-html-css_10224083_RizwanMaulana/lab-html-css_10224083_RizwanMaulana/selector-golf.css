@@ -1,0 +1,41 @@
+/* 1. Semua p biru */
+p { color: blue; }
+
+/* 2. p di dalam section hijau */
+section p { color: green; }
+
+/* 3. .note oranye */
+.note { color: orange; }
+
+/* 4. h1 merah */
+h1 { color: red; }
+
+/* 5. .tagline italic */
+.tagline { font-style: italic; }
+
+/* 6. nav a underline */
+nav a { text-decoration: underline; }
+
+/* 7. .active bold */
+.active { font-weight: bold; }
+
+/* 8. #top background */
+#top { background-color: #f0f0f0; padding: 20px; }
+
+/* 9. ul list-style */
+ul { list-style-type: square; }
+
+/* 10. li margin */
+li { margin: 5px 0; }
+
+/* 11. footer center */
+footer { text-align: center; }
+
+/* 12. h2 border */
+h2 { border-bottom: 2px solid #333; }
+
+/* 13. featured background */
+.featured { background-color: #fffacd; }
+
+/* 14. a:hover color */
+a:hover { color: purple; }
